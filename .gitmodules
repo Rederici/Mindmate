@@ -1,0 +1,9 @@
+[submodule "auth"]
+	path = auth
+	url = https://gitlab.com/mindmate/mindmate-auth.git
+[submodule "tasks"]
+	path = tasks
+	url = https://gitlab.com/mindmate/mindmate-tasks.git
+[submodule "frontend"]
+	path = frontend
+	url = https://gitlab.com/mindmate/mindmate-frontend.git
